@@ -1,1 +1,2 @@
 july 8th, 9:13 AM: the md didn't change when I pushed, will continue testing
+july 8th, 9:17 AM: i forgot to do "git push origin main" right after i commited, haha
