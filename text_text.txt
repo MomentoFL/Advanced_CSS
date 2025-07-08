@@ -4,3 +4,4 @@ july 8th, 9:24 AM: made another branch called "main_child" to simulate final cha
 july 8th, 2:20 PM: testing
 july 8th, 2:27 PM: I used "git checkout main_child" to go into the branch, and then used the similar push process to add new code,
  BUT I did "git push origin main_child --force to add the new code from this branch. very interesting...
+ july 8th, 2:43 PM: WHY ARENT YOU PUSHING TO MAIN????
