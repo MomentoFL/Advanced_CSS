@@ -2,3 +2,5 @@ july 8th, 9:13 AM: the md didn't change when I pushed, will continue testing
 july 8th, 9:17 AM: i forgot to do "git push origin main" right after i commited, haha
 july 8th, 9:24 AM: made another branch called "main_child" to simulate final changes before committing into the main branch
 july 8th, 2:20 PM: testing
+july 8th, 2:27 PM: I used "git checkout main_child" to go into the branch, and then used the similar push process to add new code,
+ BUT I did "git push origin main_child --force to add the new code from this branch. very interesting...
