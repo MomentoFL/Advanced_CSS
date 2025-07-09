@@ -7,3 +7,4 @@ july 9th, 1:42 AM: so i went to reset the whole process and cloned the original 
 july 9th, 1:48 AM: i have successfully pushed main_master and also made a pull request into main, merging it! now let's see if there were two branches instead of one...
     - this is where "git pull" might be handy to stay up to date, but how would i use it? anyways, i'll name my new branch "captain"
 july 9th, 1:59 AM: ran to an error that said " 'main_master' does not appear to be a git repository", is the solution "git push -u origin <branch-name>"?
+july 9th, 7:04 AM: time limit testing
