@@ -2,3 +2,4 @@ july 8th, 9:13 AM: the md didn't change when I pushed, will continue testing
 july 8th, 9:17 AM: i forgot to do "git push origin main" right after i commited, haha
 july 8th, 9:24 AM: made another branch called "main_child" to simulate final changes before committing into the main branch
 july 9th, 12:41 AM: please don't ask why im alive right now
+july 9th, 1:36 AM: after a lot of messing around and automatically merging from main to main_child, I decided to delete the main_child from the face of the digital earth
