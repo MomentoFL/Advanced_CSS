@@ -10,3 +10,4 @@ july 9th, 1:59 AM: ran to an error that said " 'main_master' does not appear to 
 july 9th, 7:04 AM: time limit testing
 july 9th, 9:21 AM: more testing, currently in main_master pushing to main
 july 9th, 9:25 AM: since i pushed to main from main_master, captain needs to pull from main to receive recent update
+july 9th, 9:28 AM: last push update, successfully pushed captain to main, currently in main_master for final update, make sure to stay on main_master
