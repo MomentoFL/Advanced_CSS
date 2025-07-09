@@ -9,3 +9,4 @@ july 9th, 1:48 AM: i have successfully pushed main_master and also made a pull r
 july 9th, 1:59 AM: ran to an error that said " 'main_master' does not appear to be a git repository", is the solution "git push -u origin <branch-name>"?
 july 9th, 7:04 AM: time limit testing
 july 9th, 9:21 AM: more testing, currently in main_master pushing to main
+july 9th, 9:25 AM: since i pushed to main from main_master, captain needs to pull from main to receive recent update
