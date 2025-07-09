@@ -9,7 +9,9 @@ body {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-image: url(pastel_blue.jpeg);
 }
+
 
 
 
@@ -36,7 +38,11 @@ a {
     display: inline-block;
 }
 
-a:hover {
+.Checkerboard_Nav:hover {
+    background-color: azure;
+    color: black;
+}
+.Flag_Nav:hover {
     background-color: azure;
     color: black;
 }
@@ -49,9 +55,10 @@ a:hover {
     grid-template-columns: auto auto auto auto;
     background-color: white;
     padding: 10px;
+    
 }
 
-.grid__product > div {
+.grid__product > div  {
     background-color: white;
      border: 2px solid black;
     padding: 50px;
@@ -81,6 +88,7 @@ height: 100%;
 img {
     width: 50%;
     height: 70%;
+    
 }
 
 .melly {
